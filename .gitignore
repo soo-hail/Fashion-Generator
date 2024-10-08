@@ -1,2 +1,5 @@
 # Ignore the Gfashion environment
 Gfashion/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
